@@ -1,6 +1,6 @@
 # Shielded Transactions Podcast by Forsight Institute
 
-Foresight Institute is a research organization and non-profit that supports the beneficial development of high-impact technologies. Since our founding in 1987 on a vision of guiding powerful technologies, we have continued to evolve into a many-armed organization that focuses on several fields of science and technology that are too ambitious for legacy institutions to support. 
+Foresight Institute è un'organizzazione di ricerca e no-profit che promuove lo sviluppo di tecnologie ad alto impatto. Dalla nostra fondazione nel 1987 con l'obiettivo di guidare tecnologie ad alto impatto, abbiamo continuato ad evolverci in un'organizzazione con diverse branche che si concentrano su vari campi della scienza e della tecnologia, troppo ambiziosi per essere sostenuti dalle istituzioni tradizionali.
 
 - [Shielded Transactions #1 | Who Will Own Your Privacy & Identity In the Future? (with Andrew Miller)](https://www.youtube.com/watch?v=UVlPHlm1I3o&list=PLH78wfbGI1x0QS-1GIjARHRWjVBKF-ofB&index=37)
 - [Shielded Transactions #2 | Bitcoin’s Privacy Problem (with Zooko Wilcox)](https://www.youtube.com/watch?v=WXXVoK92zN8)
