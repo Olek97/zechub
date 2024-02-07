@@ -1,10 +1,10 @@
 # Non Custodial Exchanges  
 
-[Non-Custodial Exchanges that list Zcash](/site/usingzcash/DEXList)
+[I Non-Custodial Exchange che supportano Zcash](/site/zechubglobal/zcashitaly/Using_Zcash)
 
-In the ever-evolving world of cryptocurrency trading, the rise of non-custodial exchanges which is also known as Decentralized Exchanges or DEXs is redefining how users engage with digital assets. These platforms offer a revolutionary approach to trading by eliminating the need for intermediaries or third parties and returning control to users.
+Nel mondo in continua evoluzione del trading di criptovalute, l'ascesa degli exchange non-custodial, noti anche come exchange decentralizzati o DEX, sta ridefinendo il modo in cui gli utenti utilizzano gli asset digitali. Queste piattaforme offrono un approccio rivoluzionario al trading, eliminando la necessità di intermediari o terze parti e restituendo il controllo agli utenti.
 
-Listed above are non-custodial exchanges that enable you to effortlessly obtain and trade Zcash independently, without the need for intermediaries in the transaction process.
+Quelli elencati sopra sono exchange non-custodial che consentono di ottenere e scambiare Zcash in modo indipendente, senza bisogno di intermediari nel processo di transazione.
 
 ### **Understanding Non Custodial Exchanges**
 
