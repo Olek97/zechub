@@ -22,7 +22,7 @@ Scambiare su exchange non custodial può essere scomodo con KYC che espone i dat
 
 ## Aggiornamenti su Zcash
 
-#### Aggiornamenti di ECC e ZF
+### Aggiornamenti di ECC e ZF
 
 - [Josh Swihart risponde alla decisione dell'UE che prende di mira le privacy coin](https://twitter.com/jswihart/status/1747617839530308025?t=kCAhhXLdve5QC-73MUn4cg&s=19)
 
@@ -64,7 +64,7 @@ Scambiare su exchange non custodial può essere scomodo con KYC che espone i dat
 
 - [L'UE fa passi avanti per vietare i portafogli di autocustodia - dlnews](https://www.dlnews.com/articles/regulation/why-the-eu-is-about-to-outlaw-and-curb-key-crypto-features/)
 
-## Alcuni tweet su Zcash
+### Alcuni tweet su Zcash
 
 - [Zcash sta facendo qualcosa di giusto - ZforZcash](https://twitter.com/ZforZcash/status/1748492523985653868?t=ammxI_tQHukOw724JQS3fQ&s=19)
 
@@ -72,7 +72,7 @@ Scambiare su exchange non custodial può essere scomodo con KYC che espone i dat
 
 - [Il trading di ZEC è ora disponibile su Huobi](https://twitter.com/ruzcash/status/1748034632673574931?t=82WtmKsQOCH27Q7XYFHTIw&s=19)
 
-## Zeme della settimana
+### Zeme della settimana
 
 ![Image](https://)
 

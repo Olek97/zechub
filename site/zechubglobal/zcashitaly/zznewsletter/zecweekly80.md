@@ -22,7 +22,7 @@ In questo recente articolo di Skylar, scopriamo una breve storia del Venezuela, 
 
 ## Aggiornamenti su Zcash
 
-#### Aggiornamenti di ECC e ZF
+### Aggiornamenti di ECC e ZF
 
 - [Una tonnellata di feedback da Zeboot - ECC](https://twitter.com/ElectricCoinCo/status/1753838710846640387)
 
@@ -64,7 +64,7 @@ In questo recente articolo di Skylar, scopriamo una breve storia del Venezuela, 
 
 - [Il governo degli Stati Uniti sembra avvicinarsi all'estrazione di Bitcoin - Coindesk](https://www.coindesk.com/consensus-magazine/2024/02/02/the-us-government-seems-to-be-closing-in-on-bitcoin-mining)
 
-## Alcuni tweet su Zcash
+### Alcuni tweet su Zcash
 
 - [Zeboot day one - @thecodebuffet](https://twitter.com/thecodebuffet/status/1752412932791562278)
 
